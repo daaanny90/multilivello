@@ -1,10 +1,10 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://dannyspina.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Danny Spina Web Developer',
+  subtitle: 'Just another web craftsman',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -25,26 +25,28 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Danny Spina',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Just another web craftsman.',
     contacts: {
       email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      facebook: '',
+      telegram: '',
+      twitter: 'https://twitter.com/Danny_Spina',
+      github: 'https://github.com/daaanny90',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: 'https://www.linkedin.com/in/dannyspina/',
+      instagram: 'https://www.instagram.com/danny.spina/',
       line: '',
       gitlab: '',
       weibo: '',
       codepen: '',
       youtube: '',
       soundcloud: '',
-      medium: '',
+      medium: 'https://medium.com/@dannyspina',
+      reddit: 'https://www.reddit.com/user/daaanny90',
+      stackoverflow: 'https://stackoverflow.com/users/8752282/danny-dd'
     }
   }
 };
