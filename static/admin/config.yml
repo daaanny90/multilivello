@@ -41,3 +41,12 @@ collections:
       - {label: "Social Image", name: "socialImage", widget: "image"}
       - {label: "Draft", name: "draft", widget: "boolean", default: true}
       - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "test"
+    label: "Test"
+    folder: "content/tests"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Slug", name: "slug", widget: "string" }
