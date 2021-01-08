@@ -3,50 +3,50 @@
 module.exports = {
   url: 'https://dannyspina.netlify.com',
   pathPrefix: '/',
-  title: 'Danny Spina Web Developer',
-  subtitle: 'Just another web craftsman',
+  title: 'Multilivello - Viaggio di un solo game developer',
+  subtitle: 'Viaggio di un solo game developer',
   copyright: '© All rights reserved.',
-  disqusShortname: '',
+  disqusShortname: 'multilivello',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: '',
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'Articoli',
       path: '/'
     },
     {
-      label: 'About me',
+      label: 'Chi sono',
       path: '/pages/about'
     },
     {
-      label: 'Contact me',
+      label: 'Contattami',
       path: '/pages/contacts'
     }
   ],
   author: {
-    name: 'Danny Spina',
-    photo: '/photo.jpg',
-    bio: 'Just another web craftsman.',
+    name: 'Multilivello',
+    photo: '/joypad.png',
+    bio: 'Viaggio di un solo game developer',
     contacts: {
       email: '',
       facebook: '',
       telegram: '',
-      twitter: 'https://twitter.com/Danny_Spina',
-      github: 'https://github.com/daaanny90',
+      twitter: 'https://twitter.com/multilivello1',
+      github: '',
       rss: '',
       vkontakte: '',
-      linkedin: 'https://www.linkedin.com/in/dannyspina/',
-      instagram: 'https://www.instagram.com/danny.spina/',
+      linkedin: '',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: '',
       codepen: '',
       youtube: '',
       soundcloud: '',
-      medium: 'https://medium.com/@dannyspina',
-      reddit: 'https://www.reddit.com/user/daaanny90',
-      stackoverflow: 'https://stackoverflow.com/users/8752282/danny-dd'
+      medium: 'https://medium.com/@multilivello1',
+      reddit: '',
+      stackoverflow: ''
     }
   }
 };
