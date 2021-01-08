@@ -1,7 +1,7 @@
 ---
 title: "Contattami"
 template: "page"
-socialImage: "/media/fix_car_story-823x1024.png"
+socialImage: "/joypad.png"
 ---
 
 Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.

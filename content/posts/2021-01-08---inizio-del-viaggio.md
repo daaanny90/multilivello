@@ -9,9 +9,10 @@ tags:
   - "presentazioni"
   - "chi sono"
 description: "Inizia il viaggio. Questo è il post in cui ti racconto un po' chi sono, cosa faccio e perché."
-socialImage: "/media/fix_car_story-823x1024.png"
+socialImage: "/media/inizio-del-viaggio.jpg"
 ---
-# Inizio del viaggio #
+![inizio del viaggio](/media/inizio-del-viaggio.jpg)
+
 Qui inizia un viaggio che spero mi porti lontano.
 
 Sono sempre stato una di quelle persone che d'improvviso si innamorano perdutamente di qualcosa (qualche passione, o qualche argomento) e che si buttano a capofitto su quella cosa.<br/>
