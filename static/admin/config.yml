@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: daaanny90/personal-site-jamstack
+  repo: daaanny90/multilivello
   branch: master
 
 media_folder: "static/media"
