@@ -1,11 +1,18 @@
 ---
-title: "Chi Sono"
-template: "page"
-socialImage: "/joypad.png"
+template: page
+title: Chi Sono
+slug: chi-sono
+socialImage: /joypad.png
+draft: true
 ---
+Sono Danny, full stack developer di giorno e solo game developer di notte.
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+Sono una di quelle persone che si possono definire **"multipotenziali"**, cioè una persona con diversi interessi molto diversi tra di loro.
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+Dopo aver approfondito molti campi ed aver raggiunto un livello accettabile in ognuna, ho deciso di smettere di scegliere a cosa dedicarmi e ad alternare le mie attività, e di concentrarle tutte per un unico scopo. E l'unica cosa che mi permette di farlo è il game development.
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+In questo blog voglio documentare il mio viaggio nel mondo dello sviluppo di videogame, partendo da totale principiante e condividendo conoscenza, successi e fallimenti.
+
+P.S.
+
+Se ti stai chiedendo come è fatto questo sito, è un sito statico fatto con Gatsby + Lumen e hostato su Netlify. Qui puoi trovare la repository e se scovi qualche bug, fare anche Pull Requests 😊
