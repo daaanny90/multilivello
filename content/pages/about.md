@@ -3,7 +3,7 @@ template: page
 title: Chi Sono
 slug: chi-sono
 socialImage: /joypad.png
-draft: true
+draft: false
 ---
 Sono Danny, full stack developer di giorno e solo game developer di notte.
 
