@@ -15,4 +15,4 @@ In questo blog voglio documentare il mio viaggio nel mondo dello sviluppo di vid
 
 P.S.
 
-Se ti stai chiedendo come è fatto questo sito, è un sito statico fatto con Gatsby + Lumen e hostato su Netlify. Qui puoi trovare la repository e se scovi qualche bug, fare anche Pull Requests 😊
+Se ti stai chiedendo come è fatto questo sito, è un sito statico fatto con Gatsby + Lumen e hostato su Netlify. [Qui puoi trovare la repository](https://github.com/daaanny90/multilivello) e se scovi qualche bug, fare anche Pull Requests 😊
