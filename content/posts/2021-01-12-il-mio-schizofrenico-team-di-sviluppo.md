@@ -8,7 +8,7 @@ date: 2021-01-12T07:40:33.497Z
 description: Per fare un buon lavoro serve un team. E io sono solo. Ecco quindi
   come intendo formare uno schizofrenico team in cui io assumerò tutti i ruoli
   necessari.
-category: organizzazione, team
+category: team
 ---
 Certamente lavorare su un videogame non è una cosa banale. Non a caso, nei titoli di coda dei videogame AAA sono elencati centinaia di nomi, ognuno dei quali ha avuto un ruolo nello sviluppo.
 
