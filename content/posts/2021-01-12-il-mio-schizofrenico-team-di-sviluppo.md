@@ -3,7 +3,7 @@ template: post
 title: Il mio schizofrenico team di sviluppo
 slug: schizofrenico-team-sviluppo
 socialImage: /media/team-schizofrenico.jpg
-draft: true
+draft: false
 date: 2021-01-12T07:40:33.497Z
 description: Per fare un buon lavoro serve un team. E io sono solo. Ecco quindi
   come intendo formare uno schizofrenico team in cui io assumerò tutti i ruoli
