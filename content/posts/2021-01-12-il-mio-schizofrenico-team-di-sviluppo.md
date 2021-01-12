@@ -10,6 +10,8 @@ description: Per fare un buon lavoro serve un team. E io sono solo. Ecco quindi
   necessari.
 category: team
 ---
+![il mio schizofrenico team di sviluppo - multilivello.net](/media/team-schizofrenico.jpg "il mio schizofrenico team di sviluppo - multilivello.net")
+
 Certamente lavorare su un videogame non è una cosa banale. Non a caso, nei titoli di coda dei videogame AAA sono elencati centinaia di nomi, ognuno dei quali ha avuto un ruolo nello sviluppo.
 
 Ma come faccio io, che invece sono da solo?
@@ -24,8 +26,6 @@ Così su due piedi mi sembra una bella idea, improvvisata mentre scrivo queste r
 
 Ecco quindi il team di sviluppo che porterà avanti questo viaggio:
 
-
-
 ## Game Designer
 
 ### Vivaldo Panicucci
@@ -33,8 +33,6 @@ Ecco quindi il team di sviluppo che porterà avanti questo viaggio:
 ![foto profilo del game designer vivaldo panicucci](/media/game-designer-vivaldo-panicucci.jpeg "game dsigner vivaldo panicucci")
 
 Vivaldo si occuperà di tutto quello che riguarda la struttura e le idee che terranno in piedi il videogame. Si occuperà dell'idea di base e di mantenere il team focalizzato sullo scopo finale. Lui sarà responsabile su quali dinamiche di gioco sono presenti e come devono essere sviluppate.
-
-
 
 ## Game Developer
 
@@ -44,8 +42,6 @@ Vivaldo si occuperà di tutto quello che riguarda la struttura e le idee che ter
 
 Gerardo curerà il codice sorgente del videogame permettendo al videogioco di prendere una forma concreta.
 
-
-
 ## Artist
 
 ### Giada Ferrari
@@ -53,8 +49,6 @@ Gerardo curerà il codice sorgente del videogame permettendo al videogioco di pr
 ![foto profilo della artist giada ferrari](/media/artist-giada-ferrari.jpeg "artist giada ferrari")
 
 Giada penserà invece all'esperienza visuale del videogame, dai personaggi agli sfondi, oltre che le animazioni e tutto quello che ne consegue.
-
-
 
 ## Sound Engineer
 
@@ -64,8 +58,6 @@ Giada penserà invece all'esperienza visuale del videogame, dai personaggi agli 
 
 Dora invece penserà alle musiche e agli effetti sonori presenti nel videogame, fondamentali per creare l'atmosfera e rendere l'esperienza utente degna del suo nome.
 
-
-
 ## Writer
 
 ### Landro Boni
@@ -74,8 +66,6 @@ Dora invece penserà alle musiche e agli effetti sonori presenti nel videogame, 
 
 Landro è lo sceneggiatore del videogame. Lui scriverà la storia, i personaggi e i dialoghi.
 
-
-
 ## Marketing
 
 ### Marina Ferri
@@ -83,8 +73,6 @@ Landro è lo sceneggiatore del videogame. Lui scriverà la storia, i personaggi 
 ![foto profilo marketing marina ferri](/media/marketing-marina-ferri.jpeg "marketing marina ferri")
 
 Marina si occuperà del marketing e dei social media.
-
-
 
 Perfetto! Il team di sviluppo è al completo, possiamo procedere con la prima riunione di brainstorming per capire quale direzione prendere per il nostro primo videogame.
 
